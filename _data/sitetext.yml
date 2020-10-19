@@ -24,7 +24,7 @@ services:
       - title: "Supporto a sviluppo e pubblicazione"
         desc: "Supporto completo lungo tutto il processo di sviluppo e pubblicazione sugli store di un'applicazione mobile."
         icon: fas fa-phone
-      - title: "Software AI e analisi dat"
+      - title: "Software AI e analisi dati"
         desc: "Realizzazione di software e tool personalizzati per l'analisi dati tramite tecniche di machine learning e intelligenza artificiale."
         icon: fas fa-laptop-code
 
