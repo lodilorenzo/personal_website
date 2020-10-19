@@ -5,19 +5,28 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Servizi"
+    text: "Questi sono solo una parte dei servizi che offro ad aziende e privati."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Applicazioni mobile Android e iOS."
+        desc: "Realizzazione di applicazioni destinate a dispositivi mobili utlizzando linguaggi nativi per ciasuna piattaforma, quindi Java/Kotlin su Android e Objective-C/Swift su iOS oppure attraverso l'utilizzo di framework come Xamarin o Flutter."
+        icon: fas fa-mobile-alt
+      - title: "Videogiochi e applicazioni multimediali"
+        desc: "Sviluppo di videogochi e applicazioni multimediali e interattive per Windows, Mac, Linux e dispositivi mobili."
+        icon: fas fa-gamepad
+      - title: "Consulenza professionale"
+        desc: "Consulenze al fine di individuare e valutare esigenze aziendali e criticita' progettuali."
+        icon: fas fa-users
+      - title: "Supporto a sviluppo e pubblicazione"
+        desc: "Supporto completo lungo tutto il processo di sviluppo e pubblicazione sugli store di un'applicazione mobile."
+        icon: fas fa-phone
+      - title: "Software aziendali"
+        desc: "Realizzazione di software e tool aiendali in qualita' di freelance compresi di corsi di formazione interni per l'utlizzo dei nuovi software."
+        icon: fas fa-laptop-code
+      - title: "Software AR e VR"
+        desc: "Realizzazione di applicazioni di Realta' Aumentata e di Realta' Virtuale."
+        icon: fas fa-vr-cardboard
 
 portfolio:
     title: "Portfolio"
