@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Benvenuti!
+    text: Sono Lorenzo Lodi, sviluppatore freelance.
+    button: Dimmi di più
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
