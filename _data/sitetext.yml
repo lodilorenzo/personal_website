@@ -1,6 +1,6 @@
 header:
     title: Benvenuti!
-    text: Sono Lorenzo Lodi, sviluppatore freelance.
+    text: Lorenzo Lodi, sviluppatore freelance.
     button: Dimmi di più
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -15,6 +15,9 @@ services:
       - title: "Videogiochi e applicazioni multimediali"
         desc: "Sviluppo di videogochi e applicazioni multimediali e interattive per Windows, Mac, Linux e dispositivi mobili."
         icon: fas fa-gamepad
+      - title: "Software AR e VR"
+        desc: "Realizzazione di applicazioni di Realta' Aumentata e di Realta' Virtuale."
+        icon: fas fa-vr-cardboard
       - title: "Consulenza professionale"
         desc: "Consulenze al fine di individuare e valutare esigenze aziendali e criticita' progettuali."
         icon: fas fa-users
@@ -24,9 +27,6 @@ services:
       - title: "Software aziendali"
         desc: "Realizzazione di software e tool aiendali in qualita' di freelance compresi di corsi di formazione interni per l'utlizzo dei nuovi software."
         icon: fas fa-laptop-code
-      - title: "Software AR e VR"
-        desc: "Realizzazione di applicazioni di Realta' Aumentata e di Realta' Virtuale."
-        icon: fas fa-vr-cardboard
 
 portfolio:
     title: "Portfolio"
