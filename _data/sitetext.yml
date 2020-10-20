@@ -132,7 +132,6 @@ contact:
     
 footer:
     legal: "Privacy Policy"
-      - url: https://www.google.com
     social:
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
